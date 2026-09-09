@@ -87,7 +87,7 @@ const ContactPage = () => {
                       class="fa fa-download text-blue-600 cursor-pointer absolute top-4  right-4 text-2xl">
                     </i>
                       <h2 class="text-3xl font-bold text-teal-700 mt-4 text-center absolute top-4 left-1/2 transform -translate-x-1/2">
-                          <i class="fas fa-home text-green-300 text-2xl"></i> <br /> Welcome to Society Space <br />
+                          <i class="fas fa-home text-green-300 text-2xl"></i> <br /> Welcome to Property Rent Management System <br />
                           <i class="text-gray-700 text-base"> 
                             Your one-stop platform to discover and rent flats in your desired location.
                           </i>

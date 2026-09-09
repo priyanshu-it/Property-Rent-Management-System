@@ -13,7 +13,7 @@ function Footer() {
                         <p><b>Online / Offline</b></p>
                         <p>Phone: +91-234 567 890</p>
                         <p>WhatsApp: +91-123 654 789</p>
-                        <p>Address: 123 Society Space, City Name, Country</p>
+                        <p>Address: 123 Property Rent Management System, City Name, Country</p>
                         <p>-----</p>
                     </div>
 
@@ -64,7 +64,7 @@ function Footer() {
 
                 <hr />
                 <div style={{ textAlign: 'center', marginTop: '20px' }}>
-                    <p>© 2025 Society Space. All rights reserved.</p>
+                    <p>© 2025 Property Rent Management System. All rights reserved.</p>
                 </div>
             </footer >
         </>

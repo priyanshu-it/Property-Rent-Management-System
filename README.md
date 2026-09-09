@@ -1,6 +1,6 @@
 ﻿# 🏠 Property-Rent-Management-System
 
-**Society Space** is a flat-rental platform designed to help users discover flats in their desired location. Sellers can register, log in, add flat details, and manage their listed properties through a dedicated dashboard.
+**Property Rent Management System** is a flat-rental platform designed to help users discover flats in their desired location. Sellers can register, log in, add flat details, and manage their listed properties through a dedicated dashboard.
 
 > **Created by Priyanshu**
 
@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-Society Space provides a simple platform for discovering and managing rental flats.
+Property Rent Management System provides a simple platform for discovering and managing rental flats.
 
 Users can browse available flats and search/filter properties based on information such as **BHK, location, and description**.
 
@@ -117,7 +117,7 @@ The home page provides access to the flat listings and search/filter functionali
 
 ### About Us
 
-Provides information about the Society Space platform and seller ID/support process.
+Provides information about the Property Rent Management System platform and seller ID/support process.
 
 ### Register
 
@@ -145,7 +145,7 @@ Provides support and contact information for users and sellers.
 
 ```text
                     ┌─────────────────┐
-                    │  Society Space  │
+                    │  Property Rent Management System  │
                     └────────┬────────┘
                              │
               ┌──────────────┴──────────────┐
@@ -190,7 +190,7 @@ The project documentation specifies these fields on the **Add New Flat** page.
 
 ## 📞 Contact & Support
 
-Society Space provides separate contact options for purchase-ID requests, issue reporting, and technical support.
+Property Rent Management System provides separate contact options for purchase-ID requests, issue reporting, and technical support.
 
 ### Purchase ID
 
@@ -329,7 +329,7 @@ Possible improvements for the project include:
 
 ## 📌 Current Project Status
 
-**Project:** Society Space
+**Project:** Property Rent Management System
 **Purpose:** Flat discovery and rental management
 **Seller Dashboard:** Available
 **Seller Registration:** Available
@@ -348,6 +348,4 @@ The supplied project documentation identifies Priyanshu as the creator.
 
 ## 📄 License
 
-© 2025 Society Space. All rights reserved.
-
----# Property-Rent-Management-System
+© 2025 Property Rent Management System. All rights reserved.

@@ -18,7 +18,7 @@ function Contact() {
                     <address>
                         <p>Phone: +91-234 567 890 / +91-987 654 321</p>
                         <p>WhatsApp: +91-123 654 789</p>
-                        <p>Address: 123 Society Space, City Name, Country</p>
+                        <p>Address: 123 Property Rent Management System, City Name, Country</p>
                     </address>
                     ---
                 </section>
