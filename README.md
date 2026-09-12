@@ -286,7 +286,7 @@ The project documentation explicitly labels registration and login as **Seller-o
 
 Add screenshots of the project here:
 
-[View Project Screenshots (PDF)](./Society%20Build%20-%20Img.pdf)
+[View Project Screenshots](./Property-Rent-Management-System%20(IMG).pdf)
 
 ---
 
