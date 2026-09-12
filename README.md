@@ -251,8 +251,7 @@ The project documentation explicitly labels registration and login as **Seller-o
 ### Project Screenshots
 
 Add screenshots of the project here:
-
-[View Project Screenshots](./Property-Rent-Management-System%20(IMG).pdf)  👈🏻
+### [View Project Screenshots](./Property-Rent-Management-System%20(IMG).pdf)  👈🏻
 
 ---
 
