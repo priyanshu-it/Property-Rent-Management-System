@@ -107,40 +107,6 @@ Users can contact the platform for questions, reporting issues, or technical sup
 
 ---
 
-## 🧭 Main Pages
-
-The project contains the following main sections:
-
-### Home
-
-The home page provides access to the flat listings and search/filter functionality.
-
-### About Us
-
-Provides information about the Property Rent Management System platform and seller ID/support process.
-
-### Register
-
-Seller registration page for creating a new account.
-
-### Log In
-
-Seller login page for accessing the seller dashboard.
-
-### Add New Flat
-
-Form for sellers to enter and publish flat information.
-
-### My Flats
-
-Dashboard where sellers can view their listed properties.
-
-### Contact Us
-
-Provides support and contact information for users and sellers.
-
----
-
 ## 📁 Project Flow
 
 ```text
