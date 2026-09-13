@@ -110,28 +110,28 @@ Users can contact the platform for questions, reporting issues, or technical sup
 ## 📁 Project Flow
 
 ```text
-                    ┌─────────────────┐
+                    ┌───────────────────────────────────┐
                     │  Property Rent Management System  │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┴──────────────┐
-              │                             │
-         Normal User                Seller (Property Ower)
-              │                             │
-              ▼                             ▼
-         Browse Flats              Register / Purchase ID
-              │                             │
-              ▼                             ▼
-       Search / Filter                  Login Page
-              │                             │
-              ▼                             ▼
-         View Details                 Seller Dashboard
-                                            │
-                                            ▼
-                                       Add New Flat
-                                            │
-                                            ▼
-                                       Manage Flats
+                    └────────────────┬──────────────────┘
+                                     │
+              ┌──────────────────────┴──────────────────────┐
+              │                                             │
+          Normal User                               Seller (Property Ower)
+              │                                             │
+              ▼                                             ▼
+         Browse Flats                              Register / Purchase ID
+              │                                             │
+              ▼                                             ▼
+       Search / Filter                                 Login Page
+              │                                             │
+              ▼                                             ▼
+         View Details                                 Seller Dashboard
+                                                            │
+                                                            ▼
+                                                       Add New Flat
+                                                            │
+                                                            ▼
+                                                      Manage Flats
 ```
 
 ---
